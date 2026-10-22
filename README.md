@@ -7,3 +7,7 @@ I am student at Ajeenkya D.Y Patil Univesity Pune,currently learning Git and Git
 - Communication
 - Problem Solving
 - Basic Git
+
+## Projects
+- alpha: creates humanoid robots 
+- beta: testing prototypes for industry
